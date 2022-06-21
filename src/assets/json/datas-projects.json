@@ -1,0 +1,165 @@
+{
+  "hidden": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "title": [
+    "Interactive Comics",
+    "Gordon Wedding Films",
+    "Les Campanules",
+    "Swissroc",
+    "Pokedex",
+    "Saintio",
+    "Certif Pro",
+    "Sourdoreille",
+    "Series Mania",
+    "Institut National du Cancer",
+    "Mercedes Benz Actros",
+    "ESADD Check",
+    "DS Automobiles"
+  ],
+  "subtitle": [
+    "Web Dev",
+    "UI/UX/Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Branding",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Motion Design"
+  ],
+  "date": [
+    "2022",
+    "2022",
+    "2022",
+    "2022",
+    "2022",
+    "2022",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2020"
+  ],
+  "content": [
+    "Our studio  <a href='https://lesanimals.digital' data-emoji='animals' target='_blank' class='link' rel='nofollow noopener noreferrer'>Les Animals</a> is currently working on an interactive comic book project to celebrate the year 2023. In collaboration with a sound designer and an illustrator, we are working on developing a unique, interactive and playful experience.",
+    "<p>For 6 days, I was assigned by Gordon, who would like to start his own micro-business as a wedding videographer and develop his brand and reputation. For him, I realized alone :</p> <ul> <li>a UX approach</li> <li>a brand book</li> <li>a logo</li> <li>communication approaches on social networks</li> <li>a website with Vue.js</li> </ul> <p>This is how Gordon Wedding Films was born. Take a look at my <a href='https://pitch.com/public/e91f3b0c-cc1d-4aaa-a537-4234026b129b' class='link' target='_blank' data-emoji='document'>Pitch presentation</a>.</p>",
+    "<p>Les Campanules is a residence with supervision\nfor seniors in Switzerland. On this project with my studio <a href='https://lesanimals.digital' data-emoji='animals' target='_blank' class='link' rel='nofollow noopener noreferrer'>Les Animals</a>, I participated in the development. Like many of the studio's projects, it is based on a custom WordPress theme, complete with Twig, SASS, and JavaScript.</p>",
+    "The <a href='https://swissroc.ch/fr/' data-emoji='swissroc' target='_blank' class='link' rel='nofollow noopener noreferrer'>Swissroc</a> real estate group commissioned a landing page generator to my studio, <a href='https://lesanimals.digital' data-emoji='animals' target='_blank' class='link' rel='nofollow noopener noreferrer'>Les Animals</a>. The purpose of this generator is to promote the new residences of the group. We deliver a generator, based on WordPress, and the client can then deploy as many sites as he wants by himself. The contents will be the same each time, only the graphic identity will differ.",
+    "<p>Catch them all ! To enjoy myself, I made a little pokedex. Thanks to the <a href='https://pokeapi.co/' data-emoji='pokeapi' target='_blank' class='link' rel='nofollow noopener noreferrer'>PokéAPI</a> and Vue.js, dust off some memories...</p>",
+    "<p>Saintio will be to bio what Spotify was to music. Saintio will be a new type of organic supermarket, imagined during a school project. It will not have a physical store, only online sales. The orders will be delivered or available in click and collect. I realized alone the creation of this brand, its concept, its positioning and its identity. Saintio will propose a subscription system that will make organic food accessible to everyone, everywhere. Saintio will be a company with strong commitments :</p> <ul><li>certified and seasonal organic products</li><li>a source of less than 250km</li> <li>transportation of products by train as much as possible; no airplanes</li> <li>low prices</li> </ul> <p>Join the REBIOLUTION ! 🍃</p>",
+    "<p>My first project at <a href='https://lesanimals.digital' data-emoji='animals' target='_blank' class='link' rel='nofollow noopener noreferrer'>Les Animals</a>. Certif Pro is a joint association serving the professional retraining of private sector employees. I benefited from a great autonomy to develop this WordPress.</p>",
+    "<p>At <a href='https://fcinq.com' data-emoji='fcinq' target='_blank' class='link' rel='nofollow noopener noreferrer'>FCINQ</a>, I was able to discover Nuxt.js thanks to a blindtest for Sourdoreille, called \"Qui est Kick ?\". On this mission, I was in charge of the front-end development from a Figma mockup.</p>",
+    "<p>The Series Mania festival went digital and I was able to take part in the front-end development within <a href='https://fcinq.com' data-emoji='fcinq' target='_blank' class='link' rel='nofollow noopener noreferrer'>FCINQ</a>. A WordPress adapted to the constraints of the festival to have to broadcast live or replay, as well as to offer reservations for sessions.</p>",
+    "<p>A unique experience for an important subject. The French National Cancer Institute asked <a href='https://fcinq.com' target='_blank' data-emoji='fcinq' class='link' rel='nofollow noopener noreferrer'>FCINQ</a> to promote the vaccination against the human papillomavirus. I took part in the front-end technical realization through a site powered by GSAP.</p>",
+    "<p>For the <a href='https://www.groupechopard.com/' data-emoji='car' target='_blank' class='link' rel='nofollow noopener noreferrer'>CHOPARD Automobile</a> group, I was entrusted with highlighting the possibility of making a covering on a Mercedes Benz Actros truck. In 5 days, I designed and coded an interactive experience for the user, with a bit of 3D. 🪄</p>",
+    "<p>I created a web application for my school, <a href='https://esadd.fr' data-emoji='school' target='_blank' class='link' rel='nofollow noopener noreferrer'>ESADD</a>, to digitize the management of student attendance during classes, with a front-office for students and lecturers as well as a back-office for the management. All of this was done in the most streamlined and efficient user experience possible.</p>",
+    "<p>During 5 days, we had to produce, with two others <a href='https://esadd.fr' data-emoji='school' target='_blank' class='link' rel='nofollow noopener noreferrer'>ESADD</a> students, a promotional video of the new electric engine of DS3 Crossback. Through <a href='https://www.dsautomobiles.fr/' data-emoji='car' target='_blank' class='link' rel='nofollow noopener noreferrer'>DS Automobiles</a>, it was necessary thanks to After Effects to highlight the transition to electric.</p>"
+  ],
+  "cursor": [
+    "lesanimals.svg",
+    "gordon.svg",
+    "campanules.svg",
+    "swissroc.svg",
+    "pokedex.png",
+    "saintio.svg",
+    "certif-pro.svg",
+    "sourdoreille.svg",
+    "seriesmania.svg",
+    "inca.png",
+    "mercedes.png",
+    "esadd.svg",
+    "ds.png"
+  ],
+  "media": [
+    [
+      "bd-sound.mp4"
+    ],
+    [
+      "gordon.mp4"
+    ],
+    [
+      "campanules.mp4"
+    ],
+    [
+      "vista.mp4"
+    ],
+    [
+      "pokedex.mp4"
+    ],
+    [
+      "saintio-1.jpeg",
+      "saintio-2.jpeg",
+      "saintio-3.jpeg",
+      "saintio-4.jpeg"
+    ],
+    [
+      "certif-pro.mp4"
+    ],
+    [
+      "sourdoreille.mp4"
+    ],
+    [
+      "seriesmania.mp4"
+    ],
+    [
+      "inca.mp4"
+    ],
+    [
+      "actros.mp4"
+    ],
+    [
+      "emargement-admin.mp4"
+    ],
+    [
+      "ds3.mp4"
+    ]
+  ],
+  "link": [
+    null,
+    "https://gordon-wedding-films.firebaseapp.com/",
+    "https://residence-campanules.ch/",
+    "https://taqua-montreux.ch/",
+    "https://pokedex.mateofaivre.fr",
+    "https://pitch.com/public/13a87c79-9bf7-45da-b7ba-16d2c3b169a6",
+    "https://certif-pro.fr",
+    "https://sourdoreille.net/qui-est-kick/",
+    "https://forum.seriesmaniadigital.com/",
+    "https://vaccination-hpv.e-cancer.fr/",
+    "https://actros.mateofaivre.fr/",
+    null,
+    null
+  ],
+  "traduction": [
+    "Mon premier projet chez <a href='https://lesanimals.digital' target='_blank' class='link'  rel='nofollow noopener noreferrer'>Les Animals</a>. Certif Pro est une association paritaire au service de la reconversion professionnelle des salariés du privé. J'ai bénéficié d'une très grande autonomie pour développer ce WordPress.",
+    "Chez <a href='https://fcinq.com' target='_blank' class='link'  rel='nofollow noopener noreferrer'>FCINQ</a>, j'ai pu découvrir Nuxt.js grâce à un blindtest pour <a href='https://sourdoreille.net/' target='_blank' class='link'  rel='nofollow noopener noreferrer'>Sourdoreille</a>, nommé \"Qui est Kick ?\". Sur cette mission, je me suis chargé de réaliser le développement front-end à partir d'une maquette Figma.",
+    "Le festival Series Mania s'est digitalisé et j'ai pu prendre part à la réalisation front-end au sein de <a href='https://fcinq.com' target='_blank' class='link'  rel='nofollow noopener noreferrer'>FCINQ</a>. Un WordPress adapté aux contraintes du festival de devoir diffuser en live ou replay, ainsi que de proposer des réservations de séances.",
+    "Durant un stage chez <a href='https://fcinq.com' target='_blank' class='link' ref='link' rel='nofollow noopener noreferrer'>FCINQ</a>, j'ai pu apporter des évolutions à ce WordPress de la marque Comté déjà existant.",
+    "Une expérience unique pour un sujet important. L'Institut National du Cancer a missionné <a href='https://fcinq.com' target='_blank' class='link' ref='link' rel='nofollow noopener noreferrer'> FCINQ </a> de promouvoir la vaccination contre le papillomavirus humain. J'ai pris part à la réalisation technique front-end à travers un site animé par GSAP.",
+    "Pour le groupe CHOPARD Automobiles, il m'a été confié de mettre en avant la possibilité de réaliser un covering sur un camion Mercedes Benz Actros. En 5 jours, j'ai designé puis codé seul une expérience interactive pour l'utilisateur, avec un brin de 3D. 🪄",
+    "",
+    "Durant 5 jours, nous avons dû produire, avec deux camarades de l'<a href='https://esadd.fr' target='_blank' class='link' ref='link' rel='nofollow noopener noreferrer'>ESADD</a>, une vidéo promotionnelle du nouveau moteur électrique de DS3 Crossback. À travers DS Automobiles, il fallait grâce à After Effects mettre en évidence la transition à l'électrique."
+  ],
+  "old":
+  [
+    "<p>During an internship at <a href='https://fcinq.com' data-emoji='fcinq' target='_blank' class='link' rel='nofollow noopener noreferrer'>FCINQ</a>, I was able to bring evolutions to this already existing Comté branded WordPress.</p>"
+  ]
+}

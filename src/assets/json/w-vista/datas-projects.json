@@ -1,0 +1,90 @@
+{
+  "title": [
+    "Vista",
+    "Certif Pro",
+    "Sourdoreille",
+    "Series Mania",
+    "Comté",
+    "Institut National du Cancer",
+    "Mercedes Benz Actros",
+    "Émargement ESADD",
+    "DS Automobiles"
+  ],
+  "subtitle": [
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Web Dev",
+    "Motion Design"
+  ],
+  "date": [
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2021",
+    "2020"
+  ],
+  "content": [
+    "Vista is a website to promote luxury apartments between Montreux and Brent. On this project with my studio <a href='https://lesanimals.digital' data-emoji='animals' target='_blank' class='link' rel='nofollow noopener noreferrer'>Les Animals</a>, I participated in the development. Like many of the studio's projects, it is based on a custom WordPress theme, complete with Twig, SASS, and JavaScript.",
+    "My first project at <a href='https://lesanimals.digital' data-emoji='animals' target='_blank' class='link' rel='nofollow noopener noreferrer'>Les Animals</a>. Certif Pro is a joint association serving the professional retraining of private sector employees. I benefited from a great autonomy to develop this WordPress.",
+    "At <a href='https://fcinq.com' data-emoji='fcinq' target='_blank' class='link' rel='nofollow noopener noreferrer'>FCINQ</a>, I was able to discover Nuxt.js thanks to a blindtest for Sourdoreille, called \"Qui est Kick ?\". On this mission, I was in charge of the front-end development from a Figma mockup.",
+    "The Series Mania festival went digital and I was able to take part in the front-end development within <a href='https://fcinq.com' data-emoji='fcinq' target='_blank' class='link' rel='nofollow noopener noreferrer'>FCINQ</a>. A WordPress adapted to the constraints of the festival to have to broadcast live or replay, as well as to offer reservations for sessions.",
+    "During an internship at <a href='https://fcinq.com' data-emoji='fcinq' target='_blank' class='link' rel='nofollow noopener noreferrer'>FCINQ</a>, I was able to bring evolutions to this already existing Comté branded WordPress.",
+    "A unique experience for an important subject. The French National Cancer Institute asked <a href='https://fcinq.com' target='_blank' data-emoji='fcinq' class='link' rel='nofollow noopener noreferrer'>FCINQ</a> to promote the vaccination against the human papillomavirus. I took part in the front-end technical realization through a site powered by GSAP.",
+    "For the <a href='https://www.groupechopard.com/' data-emoji='car' target='_blank' class='link' rel='nofollow noopener noreferrer'>CHOPARD Automobile</a> group, I was entrusted with highlighting the possibility of making a covering on a Mercedes Benz Actros truck. In 5 days, I designed and coded an interactive experience for the user, with a bit of 3D. 🪄",
+    "I created a web application for my school, <a href='https://esadd.fr' data-emoji='school' target='_blank' class='link' rel='nofollow noopener noreferrer'>ESADD</a>, to digitize the management of student attendance during classes, with a front-office for students and lecturers as well as a back-office for the management. All of this was done in the most streamlined and efficient user experience possible.",
+    "During 5 days, we had to produce, with two others <a href='https://esadd.fr' data-emoji='school' target='_blank' class='link' rel='nofollow noopener noreferrer'>ESADD</a> students, a promotional video of the new electric engine of DS3 Crossback. Through <a href='https://www.dsautomobiles.fr/' data-emoji='car' target='_blank' class='link' rel='nofollow noopener noreferrer'>DS Automobiles</a>, it was necessary thanks to After Effects to highlight the transition to electric."
+  ],
+  "cursor": [
+    "vista.svg",
+    "certif-pro.svg",
+    "sourdoreille.svg",
+    "seriesmania.svg",
+    "comte.svg",
+    "inca.png",
+    "mercedes.png",
+    "esadd.svg",
+    "ds.png"
+  ],
+  "media": [
+    "vista.mp4",
+    "certif-pro.mp4",
+    "sourdoreille.mp4",
+    "seriesmania.mp4",
+    "comte.mp4",
+    "inca.mp4",
+    "actros.mp4",
+    "emargement-admin.mp4",
+    "ds3.mp4"
+  ],
+  "traduction": [
+    "Vista est un site visant à promouvoir des appartements luxueux entre Montreux et Brent. Sur ce projet réalisé avec mon studio <a href='https://lesanimals.digital' target='_blank' class='link'  rel='nofollow noopener noreferrer'>Les Animals</a>, j'ai participé au développement. Comme beaucoup de projets du studio, il est basé sur un thème WordPress sur-mesure, complété par Twig, SASS, et JavaScript.",
+    "Mon premier projet chez <a href='https://lesanimals.digital' target='_blank' class='link'  rel='nofollow noopener noreferrer'>Les Animals</a>. Certif Pro est une association paritaire au service de la reconversion professionnelle des salariés du privé. J'ai bénéficié d'une très grande autonomie pour développer ce WordPress.",
+    "Chez <a href='https://fcinq.com' target='_blank' class='link'  rel='nofollow noopener noreferrer'>FCINQ</a>, j'ai pu découvrir Nuxt.js grâce à un blindtest pour <a href='https://sourdoreille.net/' target='_blank' class='link'  rel='nofollow noopener noreferrer'>Sourdoreille</a>, nommé \"Qui est Kick ?\". Sur cette mission, je me suis chargé de réaliser le développement front-end à partir d'une maquette Figma.",
+    "Le festival Series Mania s'est digitalisé et j'ai pu prendre part à la réalisation front-end au sein de <a href='https://fcinq.com' target='_blank' class='link'  rel='nofollow noopener noreferrer'>FCINQ</a>. Un WordPress adapté aux contraintes du festival de devoir diffuser en live ou replay, ainsi que de proposer des réservations de séances.",
+    "Durant un stage chez <a href='https://fcinq.com' target='_blank' class='link' ref='link' rel='nofollow noopener noreferrer'>FCINQ</a>, j'ai pu apporter des évolutions à ce WordPress de la marque Comté déjà existant.",
+    "Une expérience unique pour un sujet important. L'Institut National du Cancer a missionné <a href='https://fcinq.com' target='_blank' class='link' ref='link' rel='nofollow noopener noreferrer'> FCINQ </a> de promouvoir la vaccination contre le papillomavirus humain. J'ai pris part à la réalisation technique front-end à travers un site animé par GSAP.",
+    "Pour le groupe CHOPARD Automobiles, il m'a été confié de mettre en avant la possibilité de réaliser un covering sur un camion Mercedes Benz Actros. En 5 jours, j'ai designé puis codé seul une expérience interactive pour l'utilisateur, avec un brin de 3D. 🪄",
+    "",
+    "Durant 5 jours, nous avons dû produire, avec deux camarades de l'<a href='https://esadd.fr' target='_blank' class='link' ref='link' rel='nofollow noopener noreferrer'>ESADD</a>, une vidéo promotionnelle du nouveau moteur électrique de DS3 Crossback. À travers DS Automobiles, il fallait grâce à After Effects mettre en évidence la transition à l'électrique."
+  ],
+  "link": [
+    null,
+    "https://certif-pro.fr",
+    "https://sourdoreille.net/qui-est-kick/",
+    "https://forum.seriesmaniadigital.com/",
+    "https://comte.com",
+    "https://vaccination-hpv.e-cancer.fr/",
+    "https://actros.mateofaivre.fr/",
+    null,
+    null
+  ]
+}

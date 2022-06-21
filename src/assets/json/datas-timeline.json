@@ -1,0 +1,113 @@
+{
+  "changelogs": {
+    "date": [
+      "Currently",
+      "Sep, 2021",
+      "Sep 13, 2021",
+      "Aug, 2021",
+      "Jul, 2021",
+      "Jun, 2021",
+      "Sep, 2019"
+    ],
+    "text": [
+      "Work on this beautiful portfolio 🆕",
+      "First project at <a href='https://lesanimals.digital' data-emoji='animals' class='link' target='_blank' rel='nofollow noopener noreferrer'>Les Animals</a> 🏁",
+      "I joined <a href='https://lesanimals.digital' data-emoji='animals' class='link'  target='_blank' rel='nofollow noopener noreferrer'>Les Animals</a>, a creative studio from Lyon, as a web developer under a work-study contract for 1 year",
+      "Chill and work with <a href='https://seriesmania.com' data-emoji='movie' class='link' target='_blank' rel='nofollow noopener noreferrer'>Series Mania Festival</a>",
+      "Fun blindtest for <a href='https://sourdoreille.net/qui-est-kick' data-emoji='music' class='link' target='_blank' rel='nofollow noopener noreferrer'>Sourdoreille</a>",
+      "I performed a 3 months internship at <a href='https://fcinq.com' data-emoji='fcinq' class='link' target='_blank' rel='nofollow noopener noreferrer'>FCINQ</a>, a parisian studio, as a web developer",
+      "I started a Digital Designer Bachelor at <a href='https://esadd.fr' data-emoji='school' class='link' target='_blank' rel='nofollow noopener noreferrer'>ESADD School</a>, in Dijon 🇫🇷, which lasts 3 years. My beginnings in design and web development !"
+
+    ],
+    "road": []
+  },
+  "tweets": {
+    "user": {
+      "name": [
+        "",
+        "Matéo Faivre",
+        "",
+        "Matéo Faivre",
+        "Matéo Faivre",
+        "",
+        ""
+      ],
+      "username": [
+        "",
+        "mateofaivre",
+        "",
+        "mateofaivre",
+        "mateofaivre",
+        "",
+        ""
+      ],
+      "pp": [
+        "",
+        "https://pbs.twimg.com/profile_images/1489651543892762634/i2RfCaDg_normal.jpg",
+        "",
+        "https://pbs.twimg.com/profile_images/1489651543892762634/i2RfCaDg_normal.jpg",
+        "https://pbs.twimg.com/profile_images/1489651543892762634/i2RfCaDg_normal.jpg",
+        "",
+        ""
+      ],
+      "profileLink": [
+        "",
+        "https://twitter.com/mateofaivre",
+        "",
+        "https://twitter.com/mateofaivre",
+        "https://twitter.com/mateofaivre",
+        "",
+        ""
+      ]
+    },
+    "content": {
+      "text": [
+        "",
+        "I worked on <a href='https://certif-pro.fr/' class='link' data-emoji='certif'  target='_blank' rel='nofollow noopener noreferrer'>Certif Pro</a>, a strategic player in interprofessional joint certification and professional development. The projects uses WordPress with a custom theme",
+        "",
+        " I took part in the realization of <a href='https://seriesmania.com' data-emoji='movie' class='link'  target='_blank' rel='nofollow noopener noreferrer'>Series Mania Festival</a>, a festival of international series held every year in Lille. The website is based on WordPress with a custom theme 🎨",
+        "Discover this cool blindtest : <a href='https://sourdoreille.net/qui-est-kick' data-emoji='music' class='link'  target='_blank' rel='nofollow noopener noreferrer'>Qui Est Kick</a>, made for <a href='https://sourdoreille.net/' class='link'  target='_blank' data-emoji='music' rel='nofollow noopener noreferrer'>Sourdoreille.</a> I realized the front-end of the project with Nuxt.js",
+        "",
+        ""
+      ],
+      "mediaType": [
+        "",
+        "video",
+        "",
+        "video",
+        "video",
+        "",
+        ""
+      ],
+      "mediaUrl": [
+        "",
+        "certif-pro.mp4",
+        "",
+        "seriesmania.mp4",
+        "sourdoreille.mp4",
+        "",
+        ""
+      ]
+    },
+    "tweet": {
+      "link": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "date": [
+        "",
+        "10:52 AM · Sep 30, 2021",
+        "",
+        "4:32 PM · Aug 29, 2021",
+        "3:04 PM · Jul 09, 2021",
+        "",
+        ""
+      ]
+    }
+  }
+}

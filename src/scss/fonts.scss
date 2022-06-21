@@ -1,0 +1,226 @@
+@font-face {
+	font-family: 'Magnat Head';
+	src: url('~@/assets/fonts/magnat/Magnat-HeadSemiBold.eot');
+	src: url('~@/assets/fonts/magnat/Magnat-HeadSemiBold.eot?#iefix') format('embedded-opentype'),
+	url('~@/assets/fonts/magnat/Magnat-HeadSemiBold.woff2') format('woff2'),
+	url('~@/assets/fonts/magnat/Magnat-HeadSemiBold.woff') format('woff'),
+	url('~@/assets/fonts/magnat/Magnat-HeadSemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Magnat Text';
+	src: url('~@/assets/fonts/magnat/Magnat-TextRegular.eot');
+	src: url('~@/assets/fonts/magnat/Magnat-TextRegular.eot?#iefix') format('embedded-opentype'),
+	url('~@/assets/fonts/magnat/Magnat-TextRegular.woff2') format('woff2'),
+	url('~@/assets/fonts/magnat/Magnat-TextRegular.woff') format('woff'),
+	url('~@/assets/fonts/magnat/Magnat-TextRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Magnat Text';
+	src: url('~@/assets/fonts/magnat/Magnat-TextMedium.eot');
+	src: url('~@/assets/fonts/magnat/Magnat-TextMedium.eot?#iefix') format('embedded-opentype'),
+	url('~@/assets/fonts/magnat/Magnat-TextMedium.woff2') format('woff2'),
+	url('~@/assets/fonts/magnat/Magnat-TextMedium.woff') format('woff'),
+	url('~@/assets/fonts/magnat/Magnat-TextMedium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Magnat Text';
+	src: url('~@/assets/fonts/magnat/Magnat-TextRegularItalic.eot');
+	src: url('~@/assets/fonts/magnat/Magnat-TextRegularItalic.eot?#iefix') format('embedded-opentype'),
+	url('~@/assets/fonts/magnat/Magnat-TextRegularItalic.woff2') format('woff2'),
+	url('~@/assets/fonts/magnat/Magnat-TextRegularItalic.woff') format('woff'),
+	url('~@/assets/fonts/magnat/Magnat-TextRegularItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Menlo';
+	src: url('~@/assets/fonts/menlo/Menlo-Regular.eot');
+	src: url('~@/assets/fonts/menlo/Menlo-Regular.eot?#iefix') format('embedded-opentype'),
+	url('~@/assets/fonts/menlo/Menlo-Regular.woff2') format('woff2'),
+	url('~@/assets/fonts/menlo/Menlo-Regular.woff') format('woff'),
+	url('~@/assets/fonts/menlo/Menlo-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-Bold.eot');
+//	src: url('~@/assets/fonts/inter/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-Bold.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-Bold.woff') format('woff');
+//	font-weight: bold;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-ExtraLight.eot');
+//	src: url('~@/assets/fonts/inter/Inter-ExtraLight.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-ExtraLight.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-ExtraLight.woff') format('woff');
+//	font-weight: 200;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-Black.eot');
+//	src: url('~@/assets/fonts/inter/Inter-Black.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-Black.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-Black.woff') format('woff');
+//	font-weight: 900;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-Medium.eot');
+//	src: url('~@/assets/fonts/inter/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-Medium.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-Medium.woff') format('woff');
+//	font-weight: 500;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-Light.eot');
+//	src: url('~@/assets/fonts/inter/Inter-Light.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-Light.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-Light.woff') format('woff');
+//	font-weight: 300;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-ExtraBold.eot');
+//	src: url('~@/assets/fonts/inter/Inter-ExtraBold.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-ExtraBold.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-ExtraBold.woff') format('woff');
+//	font-weight: bold;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-Regular.eot');
+//	src: url('~@/assets/fonts/inter/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-Regular.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-Regular.woff') format('woff');
+//	font-weight: normal;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-Thin.eot');
+//	src: url('~@/assets/fonts/inter/Inter-Thin.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-Thin.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-Thin.woff') format('woff');
+//	font-weight: 100;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Inter';
+//	src: url('~@/assets/fonts/inter/Inter-SemiBold.eot');
+//	src: url('~@/assets/fonts/inter/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/inter/Inter-SemiBold.woff2') format('woff2'),
+//	url('~@/assets/fonts/inter/Inter-SemiBold.woff') format('woff');
+//	font-weight: 600;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Pilat';
+//	src: url('~@/assets/fonts/pilat/PilatExtended-Regular.eot');
+//	src: url('~@/assets/fonts/pilat/PilatExtended-Regular.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/pilat/PilatExtended-Regular.woff2') format('woff2'),
+//	url('~@/assets/fonts/pilat/PilatExtended-Regular.woff') format('woff');
+//	font-weight: 400;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Pilat';
+//	src: url('~@/assets/fonts/pilat/PilatExtended-Heavy.eot');
+//	src: url('~@/assets/fonts/pilat/PilatExtended-Heavy.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/pilat/PilatExtended-Heavy.woff2') format('woff2'),
+//	url('~@/assets/fonts/pilat/PilatExtended-Heavy.woff') format('woff');
+//	font-weight: 900;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Chakra';
+//	src: url('~@/assets/fonts/chakra/ChakraPetch-Regular.eot');
+//	src: url('~@/assets/fonts/chakra/ChakraPetch-Regular.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/chakra/ChakraPetch-Regular.woff2') format('woff2'),
+//	url('~@/assets/fonts/chakra/ChakraPetch-Regular.woff') format('woff');
+//	font-weight: 400;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Chakra';
+//	src: url('~@/assets/fonts/chakra/ChakraPetch-Bold.eot');
+//	src: url('~@/assets/fonts/chakra/ChakraPetch-Bold.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/chakra/ChakraPetch-Bold.woff2') format('woff2'),
+//	url('~@/assets/fonts/chakra/ChakraPetch-Bold.woff') format('woff');
+//	font-weight: 700;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Azeret';
+//	src: url('~@/assets/fonts/azeret/AzeretMono-Regular.eot');
+//	src: url('~@/assets/fonts/azeret/AzeretMono-Regular.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/azeret/AzeretMono-Regular.woff2') format('woff2'),
+//	url('~@/assets/fonts/azeret/AzeretMono-Regular.woff') format('woff');
+//	font-weight: 400;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//
+//@font-face {
+//	font-family: 'Azeret';
+//	src: url('~@/assets/fonts/azeret/AzeretMono-SemiBold.eot');
+//	src: url('~@/assets/fonts/azeret/AzeretMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+//	url('~@/assets/fonts/azeret/AzeretMono-SemiBold.woff2') format('woff2'),
+//	url('~@/assets/fonts/azeret/AzeretMono-SemiBold.woff') format('woff');
+//	font-weight: 600;
+//	font-style: normal;
+//	font-display: swap;
+//}
+//

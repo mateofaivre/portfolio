@@ -1,0 +1,40 @@
+$magnat-text: 'Magnat Text', sans-serif !important;
+$magnat-head: 'Magnat Head', sans-serif !important;
+$menlo: 'Menlo', sans-serif !important;
+
+
+//old colors
+//$ft-light-grey: rgb(228, 228, 231);
+$ft-grey: rgb(161, 161, 170);
+$ft-grey-link: rgb(212, 212, 216);
+$ft-white: #fff;
+$ft-dark-white: rgba(244, 244, 245, 0.95);
+$ft-dark-white2: rgba(244, 244, 245, 0.98);
+$ft-dark-black: rgb(24, 24, 27);
+$ft-light-black: rgb(39, 39, 42);
+$ft-border-grey: rgb(63, 63, 70);
+$ft-green-current: rgb(52, 211, 153);
+
+//new
+$ft-black: rgb(23, 23, 23);
+$ft-grey-bg: hsl(0 0% 99.0%);
+$ft-grey-text: hsl(0 0% 43.5%);
+$ft-light-grey: hsl(0 0% 52.3%);
+$ft-light-grey-bg: #f3f3f3;
+$ft-icons-gradient: linear-gradient(45deg, rgb(248, 248, 248), rgb(232, 232, 232), rgb(248, 248, 248), rgb(232, 232, 232));
+
+$easeOutQuad: cubic-bezier(0.250, 0.460, 0.450, 0.940);
+
+/* -------- Responsive -------- */
+
+// Desktop
+$mediumMin: 1281px;
+$mediumMax: 1280px;
+
+// Tablet
+$mobileMin: 961px;
+$mobileMax: 960px;
+
+// Smartphones
+$smallMin: 501px;
+$smallMax: 500px;

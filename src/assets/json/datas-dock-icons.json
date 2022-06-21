@@ -1,0 +1,6 @@
+{
+  "name": ["Home", "Projects", "Timeline", "Twitter", "Github", "Mail"],
+  "name_fr": ["Accueil", "Projets", "Timeline", "Twitter", "Github", "Mail"],
+  "icon": ["Home", "Projects", "Timeline", "Twitter", "Github", "Mail"],
+  "slug": [["/", true], ["projects", true], ["timeline", true], ["https://twitter.com/mateofaivre", false], ["https://github.com/mateofaivre", false], ["mailto:mateo.faivre@esadd.fr", false]]
+}
